@@ -1,4 +1,8 @@
 # Personal Portfolio Website
+<p align="right">
+  Author-Ishika Jain
+</p>
+
 This is my first personal portfolio website created to practice frontend web development.  
 The project showcases my basic skills in HTML and CSS and focuses on creating a clean, responsive layout.  
 It is a beginner-level project built as part of my learning journey.
@@ -24,7 +28,7 @@ It is a beginner-level project built as part of my learning journey.
 
 ## 📂 Project Structure
 
-portfolio/
+My-Portfolio-Webpage
 │── index.html  
 │── style.css  
 │── ishika1.jpeg
@@ -43,7 +47,6 @@ portfolio/
 - Add animations and transitions  
 - Make the website fully responsive
 
-## 🙋‍♀️ Author
-
-**Ishika Jain**  
-Frontend Web Development Learner
+<p align="center">
+<img src="https://img.shields.io/badge/🙏Thank_You_For_Spending_a_Moment_On_My_Profile,_Happy_Coding,_All_The_Very_Best-dodgerred.svg?style=for-the-badge"/>
+</p>
