@@ -48,5 +48,5 @@ My-Portfolio-Webpage
 - Make the website fully responsive
 
 <p align="center">
-<img src="https://img.shields.io/badge/🙏Thank_You_For_Spending_a_Moment_On_My_Profile,_Happy_Coding,_All_The_Very_Best-dodgerred.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🙏%20Thank%20You%20for%20Visiting-Happy%20Coding-success?style=for-the-badge"/>
 </p>
